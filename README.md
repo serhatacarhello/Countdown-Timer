@@ -1,7 +1,6 @@
 # How to Build A JavaScript Countdown Timer
-Source files to accompany the Tuts+ course: How to Build A JavaScript Countdown Timer
-
-Countdown timers can be very effective tools for indicating the start, or end, of an event. For example: when a website goes live, or a price offer expires, or even when a user session might end. In this JavaScript Countdown Timer tutorial you’ll learn how to create your own.
+In this JavaScript Countdown Timer tutorial I tried to learn how to create my own.
+Thanks to Adi Purdila
 
 **Resources**
 
